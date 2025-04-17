@@ -6,3 +6,4 @@ public record class GameDtos(
     string Genre,
     decimal Price,
     DateOnly ReleaseDate);
+    
