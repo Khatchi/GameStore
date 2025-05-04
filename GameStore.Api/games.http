@@ -12,7 +12,7 @@ Content-Type: application/json
 #     "genreId": 2,
 #     "price": 59.99,
 #     "releaseDate": "2010-09-30"
-# }
+# } 
  {
     "name": "Minecraft",
     "genreId": 5,
